@@ -10,4 +10,8 @@ Releases 页面自取
 # 安装
 dll放入解压版Vivaldi目录(vivaldi.exe同目录)即可
 ## 源项目
+[vivaldiplus](https://github.com/czyt/vivaldi_plus)
+
 [chromePlus](https://github.com/icy37785/chrome_plus)
+
+对以上项目表示感谢
